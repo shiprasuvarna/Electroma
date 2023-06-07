@@ -1,5 +1,5 @@
-# The Emporium
-Welcome to my E-commerce application 'The Emporium' where you can purchase various items from five categories that are as follows:
+# Electroma
+Welcome to my E-commerce application 'Electroma' where you can purchase various items from five categories that are as follows:
 * Home Appliances 
 * Televisions
 * Camera and accesories

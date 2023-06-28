@@ -2,7 +2,7 @@
 Welcome to my E-commerce application 'Electroma' where you can purchase various items from five categories that are as follows:
 * Home Appliances 
 * Televisions
-* Camera and accesories
+* Camera and accessories
 * Computer and Tablets 
 * Mobiles
 

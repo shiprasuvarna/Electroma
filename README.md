@@ -23,4 +23,3 @@ Here's how the application actually looks:
 ![Screenshot 2023-06-05 140843](https://github.com/shiprasuvarna/TheEmporium/assets/102012006/f40aae60-598a-4024-a089-e802d1d70c96)
 ![Screenshot 2023-06-05 140851](https://github.com/shiprasuvarna/TheEmporium/assets/102012006/9f7131a8-16c8-4491-a89f-9cb5b3f51f75)
 ![Screenshot 2023-06-05 140907](https://github.com/shiprasuvarna/TheEmporium/assets/102012006/abf6afe1-40f8-4002-ab74-444be272db20)
-
